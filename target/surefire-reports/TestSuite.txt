@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 22.581 s <<< FAILURE! - in TestSuite
+LoginClick(com.qa.tests.Log4jDemo)  Time elapsed: 4.428 s  <<< FAILURE!
+java.lang.AssertionError: expected [Cogmento CRM] but found [CRM]
+	at com.qa.tests.Log4jDemo.LoginClick(Log4jDemo.java:72)
+

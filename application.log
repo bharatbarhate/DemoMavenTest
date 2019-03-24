@@ -1,0 +1,15 @@
+2019-03-23 17:54:59,071  INFO [main] Log4jDemo:28 - ***************** Starting Test Case Execution ***************
+2019-03-23 17:55:08,807  INFO [main] Log4jDemo:36 - entering Application URL
+2019-03-23 17:55:08,808  INFO [main] Log4jDemo:40 - ***************** Statring Test Case***************
+2019-03-23 17:55:08,815  INFO [main] Log4jDemo:41 - ***************** validateTitle Started ***************
+2019-03-23 17:55:08,815  INFO [main] Log4jDemo:43 - entering Application URL
+2019-03-23 17:55:09,104  INFO [main] Log4jDemo:45 - Title of Page is -->Free CRM software cloud for sales and service
+2019-03-23 17:55:09,110  INFO [main] Log4jDemo:50 - ***************** Ending Test Case***************
+2019-03-23 17:55:09,110  INFO [main] Log4jDemo:51 - ***************** validateTitle Finished***************
+2019-03-23 17:55:09,835  INFO [main] Log4jDemo:84 - ***************** Driver closed sucessfully***************
+2019-03-23 17:55:09,836  INFO [main] Log4jDemo:28 - ***************** Starting Test Case Execution ***************
+2019-03-23 17:55:15,486  INFO [main] Log4jDemo:36 - entering Application URL
+2019-03-23 17:55:15,487  INFO [main] Log4jDemo:56 - ***************** Statring Test Case***************
+2019-03-23 17:55:15,487  INFO [main] Log4jDemo:57 - ***************** LoginClick Started ***************
+2019-03-23 17:55:18,661 DEBUG [main] Log4jDemo:65 - This is dubug message
+2019-03-23 17:55:20,657  INFO [main] Log4jDemo:84 - ***************** Driver closed sucessfully***************

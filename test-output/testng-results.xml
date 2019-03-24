@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26860" started-at="2019-03-17T05:00:36Z" finished-at="2019-03-17T05:01:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26860" started-at="2019-03-17T05:00:36Z" finished-at="2019-03-17T05:01:03Z">
+      <class name="com.qa.tests.Log4jDemo">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.Log4jDemo@7e0b0338]" name="setUp" is-config="true" duration-ms="9812" started-at="2019-03-17T01:00:36Z" finished-at="2019-03-17T01:00:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateTitle()[pri:1, instance:com.qa.tests.Log4jDemo@7e0b0338]" name="validateTitle" duration-ms="348" started-at="2019-03-17T01:00:46Z" finished-at="2019-03-17T01:00:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.qa.tests.Log4jDemo@7e0b0338]" name="quit" is-config="true" duration-ms="738" started-at="2019-03-17T01:00:46Z" finished-at="2019-03-17T01:00:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.Log4jDemo@7e0b0338]" name="setUp" is-config="true" duration-ms="7991" started-at="2019-03-17T01:00:47Z" finished-at="2019-03-17T01:00:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginClick()[pri:2, instance:com.qa.tests.Log4jDemo@7e0b0338]" name="LoginClick" duration-ms="7198" started-at="2019-03-17T01:00:55Z" finished-at="2019-03-17T01:01:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginClick -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.qa.tests.Log4jDemo@7e0b0338]" name="quit" is-config="true" duration-ms="753" started-at="2019-03-17T01:01:02Z" finished-at="2019-03-17T01:01:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.qa.tests.Log4jDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
