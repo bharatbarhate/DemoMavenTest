@@ -69,7 +69,8 @@ public class Log4jDemo {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-			Assert.assertEquals(driver.getTitle(), "Cogmento CRM");
+			//Assert.assertEquals(driver.getTitle(), "Cogmento CRM");
+			Assert.assertEquals(driver.getTitle(), "CRM");
 			log.info("Title of Page is -->"+driver.getTitle());
 			
 			log.info("***************** Ending Test Case***************");
